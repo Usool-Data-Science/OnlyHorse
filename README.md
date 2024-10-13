@@ -2,7 +2,6 @@
 
 ![Demo App](/public/demo-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/mduqkHlJujA)
 
 Some Features:
 
@@ -21,9 +20,6 @@ Some Features:
 -   🖼️ Edit Profile
 -   📷 Image/Video Uploads using Cloudinary
 -   💙 Awesome Landing Page
--   🌐 Deployment
--   👀 And Millions of Other Cool Features
--   ✅ This is a lot of work. Support me by subscribing to the [Youtube Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
